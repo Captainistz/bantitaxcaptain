@@ -68,7 +68,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className='min-h-screen px-0 py-16 flex flex-col justify-center items-center'>
-        <h1 className='my-8 mx-4 text-5xl'>
+        <h1 className='my-8 mx-4 text-3xl sm:text-5xl'>
           <a href='https://www.instagram.com/the_iuq/'>Bantita</a> 💕{' '}
           <a href='https://www.instagram.com/captainistz/'>Captain</a>
         </h1>
